@@ -1,7 +1,7 @@
 ### Aether Labs - Site institucional
 Site institucional estático desenvolvido como projeto de avaliação, com múltiplas páginas, responsividade e boas práticas de acessibilidade.
 
-### 📄 Páginas 
+### Páginas 
 
 -**Início**(`index.html`)- hero section com apresentação e cards diferenciais.
 
@@ -13,12 +13,12 @@ Site institucional estático desenvolvido como projeto de avaliação, com múlt
 
 -**Obrigado(`obrigado.html`)**- confirmação de envio
 
-### 🛠️ Tecnologia 
+### Tecnologia 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 📁Estrutura
+### Estrutura
 
 ```
 assets/
@@ -35,7 +35,7 @@ sobre.html
 obrigado.html
 ```
 
-### ✅Funcionalidades 
+### Funcionalidades 
 
 - Layout reponsivo com CSS Grid e Flexbox
 
@@ -49,7 +49,7 @@ obrigado.html
 
 - CSS separado por página para melhor organização
 
-### 🚀 Como rodar
+### Como rodar
  
 Abra o arquivo `Index.html` diretamente no navegador — sem dependências ou instalação, ou use o live server no vs code.
 ---
